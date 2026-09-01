@@ -3,6 +3,8 @@
 This is my attempt at creating split keyboard based on the silakka54 with separate left and right pcb's, additional keys and slightly modified layout. 
 WIP!
 
+So far it is a outcome of one day speed run learning about laying out pcb's and how to use kicad so i would not try to use it just yet.
+
 # Silakka54
 
 Silakka54 is a RP2040 Zero based 54-key column staggered split keyboard. PCB uses hotswap sockets. Design is inspired from REVIUNG41 and Corne keyboards.
