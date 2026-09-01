@@ -1,3 +1,7 @@
+# Silakka60mod
+
+This is my attempt at creating split keyboard based on the silakka54 with separate left and right pcb's, additional keys and slightly modified layout. 
+WIP!
 
 # Silakka54
 
