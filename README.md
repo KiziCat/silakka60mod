@@ -5,6 +5,8 @@ WIP!
 
 So far it is a outcome of one day speed run learning about laying out pcb's and how to use kicad so i would not try to use it just yet.
 
+Hey, If you would like to order pcb's from aivon using my link it would be huge help to me https://www.aivon.com/?Mb_InviteId=29714
+
 # Silakka54
 
 Silakka54 is a RP2040 Zero based 54-key column staggered split keyboard. PCB uses hotswap sockets. Design is inspired from REVIUNG41 and Corne keyboards.
